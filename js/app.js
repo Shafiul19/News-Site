@@ -126,6 +126,10 @@ const displayDetails = (news) => {
                   </div>
                 </div>
               </div>
+
+              <div class="modal-footer border-0">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
             
             </div>
     `;
